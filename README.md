@@ -21,9 +21,7 @@ Task : Data Science & Business Analytics - Prediction using Supervised ML
 
 
 
-GitHub Link: https://lnkd.in/eAyCJvD
-
-Youtube Link: https://lnkd.in/eeWH9Zs
+Youtube Link: https://youtu.be/EASk-QU1RzA
 
 
 
